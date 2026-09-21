@@ -35,32 +35,12 @@ Se quiseres correr o projeto no teu próprio computador, segue os passos abaixo:
 
  1. Clonar o repositório
 ```bash
-git clone [https://github.com/carlosAugusto7/xbox-bi-dashboard.git](https://github.com/carlosAugusto7/xbox-bi-dashboard.git)
-cd xbox-bi-dashboard
-
-2. Criar e ativar o ambiente virtual (Recomendado)
-Para Windows:
 python -m venv env
 .\env\Scripts\activate
 
-Bash
-python -m venv env
-.\env\Scripts\activate
-Para Mac/Linux:
-
-Bash
 python3 -m venv env
 source env/bin/activate
 
-3. Instalar as dependências
-Bash
 pip install -r requirements.txt
 
-4. Executar a aplicação
-Bash
 streamlit run meu_dashboard.py
-
-Desenvolvido por
-Carlos Augusto
-
-GitHub: @carlosAugusto7
