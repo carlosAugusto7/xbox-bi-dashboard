@@ -7,7 +7,7 @@
 
 Um painel de Business Intelligence (BI) interativo desenvolvido inteiramente em Python. Este projeto simula e analisa o ecossistema de vendas da Xbox, permitindo o acompanhamento do desempenho de consolas, subscrições do Game Pass, acessórios e hardware de PC.
 
-🌐 **[Clica aqui para veres o Dashboard ao vivo](INSERE_AQUI_O_LINK_DO_TEU_STREAMLIT)**
+🌐 **[Clica aqui para veres o Dashboard ao vivo]((https://xbox-bi-dashboard-76ha5gmrsrsbtwxqubdwza.streamlit.app/))**
 
 ---
 
