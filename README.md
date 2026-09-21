@@ -28,14 +28,3 @@ Um painel de Business Intelligence (BI) interativo desenvolvido inteiramente em 
 - **Altair:** Biblioteca de visualização estatística declarativa para gráficos responsivos.
 
 ---
-
-## 🚀 Como executar este projeto localmente
-
-Se quiseres correr o projeto no teu próprio computador, segue os passos abaixo:
-
-### 1. Clonar o repositório
-```bash
-git clone [https://github.com/carlosAugusto7/xbox-bi-dashboard.git](https://github.com/carlosAugusto7/xbox-bi-dashboard.git)
-cd xbox-bi-dashboardpython -m venv env
-.\env\Scripts\activatepython3 -m venv env
-source env/bin/activatepip install -r requirements.txtstreamlit run meu_dashboard.py
