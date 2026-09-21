@@ -33,14 +33,9 @@ Um painel de Business Intelligence (BI) interativo desenvolvido inteiramente em 
 
 Se quiseres correr o projeto no teu próprio computador, segue os passos abaixo:
 
- 1. Clonar o repositório
+### 1. Clonar o repositório
 ```bash
-python -m venv env
-.\env\Scripts\activate
-
-python3 -m venv env
-source env/bin/activate
-
-pip install -r requirements.txt
-
-streamlit run meu_dashboard.py
+git clone [https://github.com/carlosAugusto7/xbox-bi-dashboard.git](https://github.com/carlosAugusto7/xbox-bi-dashboard.git)
+cd xbox-bi-dashboardpython -m venv env
+.\env\Scripts\activatepython3 -m venv env
+source env/bin/activatepip install -r requirements.txtstreamlit run meu_dashboard.py
